@@ -1,0 +1,17 @@
+build:
+  gpu: false
+  system_packages:
+    - cmake
+    - zip
+    - ffmpeg
+    - libsm6
+    - libxext6
+    - wget
+  python_version: "3.10"
+  python_packages:
+    - "torchvision"
+    - "insightface==0.7.3"
+    - "onnxruntime"
+    - "gfpgan"
+
+predict: "predict.py:Predictor"
