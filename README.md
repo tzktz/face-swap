@@ -11,4 +11,4 @@
 
 Integrated into [Huggingface Spaces 🤗](https://huggingface.co/spaces) using [Gradio](https://github.com/gradio-app/gradio). Try out the Web Demo: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Tzktz/Swap-Face-Model)
 
-![Alt text](https://github.com/tzktz/GFP-GAN-FACE-ENHANCE-MODEL/blob/main/demo%20output.png)
+![Alt text](https://github.com/tzktz/face-swap/blob/main/result.png)
